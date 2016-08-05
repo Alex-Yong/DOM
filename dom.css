@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background-image: url("http://www.monumentvalleygame.com/images/background.jpg");
+ text-align: center;
+}
+
+h1 {
+  color: lightblue;
+  font-size: 90px;
+}
+
+p {
+  color: lightblue;
+  font-size: 40px;
+}
